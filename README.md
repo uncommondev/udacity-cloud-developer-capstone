@@ -35,3 +35,11 @@ To run the frontend locally use:
 You will be able to access it via your browser on:
 
     http:localhost:3000
+
+## Evidence of Deployment
+
+![Serverless](PHOTOS/SERVERLESS_CLI.png)
+
+![API Gateway](PHOTOS/API_GATEWAY.png)
+
+![Frontend](PHOTOS/FRONTEND.png)
